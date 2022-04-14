@@ -2,11 +2,6 @@
   <Layout>
 
     <div class="container">
-      <div class="journal-hero">
-        <h1 class="journal-header">
-          a wise person once said...
-        </h1>
-      </div>
     </div>
 
     <g-link 
@@ -54,10 +49,12 @@ export default {
   color: var(--color-base-1);
 }
 .journal-header {
-  font-size: 3rem;
+  font-size: 2rem;
+  font-family: Georgia, serif;
   font-weight: 700;
   padding: 0;
   margin: 0;
+  font-family: Times, Georgia, serif;
 }
 .journal-post {
   display: block;
@@ -78,10 +75,12 @@ export default {
 .journal-post h2 {
   margin: 0;
   padding: 0;
+  font-family: Times, Georgia, serif;
 }
 .journal-title {
   font-size: 2rem;
   color: var(--color-contrast);
+  font-family: Times, Georgia, serif;
 }
 .journal-excerpt {
   color: var(--color-contrast-1);
