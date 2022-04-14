@@ -5,10 +5,10 @@
       <div class="container">
 
         <div class="project-header">
-          <h1 class="project-title" v-html="$page.post.title" />
+          <h1 class="project-title text-center" v-html="$page.post.title" />
         </div>
 
-        <div v-html="$page.post.content" class="content" />
+        <div v-html="$page.post.content" class="content text-center" />
 
       </div>
 
