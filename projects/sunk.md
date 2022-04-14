@@ -1,10 +1,12 @@
 ---
-thumbnail: "/uploads/30-gatwick-fog-watermark.JPG"
-title: "3"
+thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
+title: Pineapple
 date: 2019-02-06
-categories: []
+categories:
+- photography
+- blue
 project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
 
 ---
-![](/uploads/30-gatwick-fog-watermark.JPG)
+![](/uploads/cody-davis-253925-unsplash.jpg)

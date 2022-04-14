@@ -1,10 +1,12 @@
 ---
-thumbnail: "/uploads/42-shorts-330-guernsey-fog-watermark.JPG"
-title: "2"
+thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
+title: Porta400
 date: 2019-01-03
-categories: []
+categories:
+- photography
+- yellow
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/42-shorts-330-guernsey-fog-watermark.JPG)
+![](/uploads/markus-spiske-516263-unsplash.jpg)

@@ -1,10 +1,12 @@
 ---
-thumbnail: "/uploads/69-hp-halifax-watermark.JPG"
-title: "1"
+thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
+title: Ice Cream
 date: 2019-01-04
-categories: []
+categories:
+- photography
+- yellow
 project_bg_color: ''
 project_fg_color: "#FDC70D"
 
 ---
-![](/uploads/69-hp-halifax-watermark.JPG)
+![](/uploads/ian-dooley-281897-unsplash.jpg)
