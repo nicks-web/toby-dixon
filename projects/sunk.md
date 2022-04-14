@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/30-gatwick-fog-watermark.JPG"
-title: Foggy Gatwick
+title: "3"
 date: 2019-02-06
 categories: []
 project_bg_color: "#EDEDED"
