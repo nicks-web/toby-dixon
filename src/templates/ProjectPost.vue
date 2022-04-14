@@ -48,7 +48,7 @@ export default {
 }
 .project-title {
   font-size: 2.8rem;
-  font-family: Georgia, serif;
+  font-family: Times New Roman, Georgia, serif;
   margin: 0 0 1.5rem 0;
   padding: 0;
 }
