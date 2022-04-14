@@ -45,7 +45,7 @@ export default {
 }
 .home-link {
     text-decoration: none;
-    font-family: Georgia, serif;
+    font-family: Times New Roman, Georgia, serif;
 }
 .logo {
     height: 1.5rem;
@@ -56,7 +56,7 @@ export default {
     letter-spacing: 0.05em;
     text-decoration: none;
     text-transform: uppercase; 
-    font-family: Georgia, serif;
+    font-family: Times New Roman, Georgia, serif;
 }
 .nav > * {
     font-size: 0.9rem;
