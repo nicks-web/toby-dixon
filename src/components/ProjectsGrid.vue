@@ -50,7 +50,7 @@ export default {
   font-size: 1.2rem;
   color: var(--color-contrast);
   margin: 0.7rem 0 0.7rem 0;
-  font-family: Georgia, serif;
+    font-family: Times New Roman, Georgia, serif;
 }
 .categories {
   font-size: 0.95rem;
