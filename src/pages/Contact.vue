@@ -6,77 +6,34 @@
         <h3 class="contact-title">Contact</h3>
         <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
       </div>
-   <form
-     
-     @submit.prevent="handleSubmit">
-     <label v-for="(panelist, index) in panelists" :key="index">
-       <input
-         type="radio"
-         name="panelist"
-         @input="ev => form.askPerson = ev.target.value"
-         :value="panelist"
-         :checked="form.askPerson === panelist"
-       />
-       <span>{{ panelist }}</span>
-     </label>
-     
-   </form>
- <script>
- import axios from "axios";
- export default {
-   name: "QAForm",
-   data () {
-     return {
-       form: {
-         askPerson: ""
-       }
-     }
-   },
-   methods: {
-     encode (data) {
-       return Object.keys(data)
-         .map(
-           key => `${encodeURIComponent(key)}=${encodeURIComponent(data[key])}`
-         )
-         .join("&");
-     },
-     handleSubmit () {
-       const axiosConfig = {
-         header: { "Content-Type": "application/x-www-form-urlencoded" }
-       };
-       axios.post(
-         "/",
-         this.encode({
-           "form-name": "ask-question",
-           ...this.form
-         }),
-         axiosConfig
-       );
-     }
-   }
- }
- </script>
-
-
-
- <form name="contact" data-netlify-honeypot data-netlify="true">
- <input type="hidden" name="contact" value="contact" />
- <p>
-     <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button class="button" type="submit">Send</button>
-  </p>
-</form>
-    </div>
-  </Layout>
+ <template>
+  <form
+    name="ask-question"
+    method="post"
+    data-netlify="true"
+    data-netlify-honeypot="bot-field"
+    >
+    <input type="hidden" name="form-name" value="ask-question" />
+       <button>Submit</button>
+  </form>
 </template>
+<script>
+export default {
+  name: "QAForm",
+  methods: {
+    updatePanelist (ev) {
+      this.currentPanelist = ev.target.value
+    }
+  },
+  data () {
+    return {
+      panelists: ['Evan You', 'Chris Fritz'],
+      currentPanelist: 'Evan You'
+    }
+  }
+}
+</script>
+
 <script>
 export default {}
 </script>
