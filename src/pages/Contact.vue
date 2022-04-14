@@ -89,7 +89,7 @@ export default {}
   font-size: 2.2rem;
   margin: 0 0 4rem 0;
   padding: 0;
-  font-family: Georgia, serif;
+  font-family: Times New Roman, Georgia, serif;
 }
 .sender-info {
   display: flex;
