@@ -36,7 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
-- projects/3d-graff.md
-- projects/chelsea-landmark.md
-- projects/ios-concept.md
-- projects/sunk.md
+- projects/1.md
+- projects/2.md
+- projects/3.md
+- projects/4.md
