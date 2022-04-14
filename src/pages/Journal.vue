@@ -54,7 +54,7 @@ export default {
   font-weight: 700;
   padding: 0;
   margin: 0;
-  font-family: Times, Georgia, serif;
+  font-family: Times New Roman, Georgia, serif;
 }
 .journal-post {
   display: block;
