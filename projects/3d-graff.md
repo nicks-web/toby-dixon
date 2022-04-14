@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/69-hp-halifax-watermark.JPG"
-title: ROYAL AIR FORCE HANDLEY PAGE HALIFAX
+title: "1"
 date: 2019-01-04
 categories: []
 project_bg_color: ''
