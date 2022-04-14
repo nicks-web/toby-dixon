@@ -47,7 +47,7 @@ body.dark {
 
 h1 {
   letter-spacing: -0.01em;
-  font-family: Georgia, serif;
+    font-family: Times New Roman, Georgia, serif;
 }
 
 .layout {
