@@ -13,16 +13,6 @@
     data-netlify-honeypot="bot-field"
     >
     <input type="hidden" name="form-name" value="ask-question" />
-    <label v-for="(panelist, index) in panelists" :key="index">
-      <input
-        type="radio"
-        name="panelist"
-        :value="panelist"
-        @input="ev => updatePanelist"
-        :checked="panelist === currentPanelist"
-      />
-      <span>{{ panelist }}</span>
-    </label>
      <p>
      <label>Your Name: <input type="text" name="name" /></label>
   </p>
@@ -50,12 +40,6 @@ export default {
       this.currentPanelist = ev.target.value
     }
   },
-  data () {
-    return {
-      panelists: ['Evan You', 'Chris Fritz'],
-      currentPanelist: 'Evan You'
-    }
-  }
 }
 </script>
 
