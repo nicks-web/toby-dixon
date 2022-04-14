@@ -51,6 +51,7 @@ export default {
 .journal-title {
   font-size: 2rem;
   margin: 0 0 1.5rem 0;
+  font-family: Times New Roman, Georgia, serif;
   padding: 0;
 }
 .journal-meta {
