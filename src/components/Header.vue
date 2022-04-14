@@ -3,16 +3,12 @@
         <div class="container">
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
-                    <img 
-                        src="../../static/logo.svg"
-                        :alt="settings.site_name" 
-                        class="logo"
-                    />
+                    <h3>TOBY DIXON</h3>
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Journal</g-link>
-                <g-link class="nav__link" to="/contact">Say Hi!</g-link>
+                <g-link class="nav__link" to="/journal">NEWS</g-link>
+                <g-link class="nav__link" to="/contact">CONTACT</g-link>
             </nav>
         </div>
     </header>
@@ -49,6 +45,7 @@ export default {
 }
 .home-link {
     text-decoration: none;
+    font-family: Georgia, serif;
 }
 .logo {
     height: 1.5rem;
@@ -58,14 +55,15 @@ export default {
     font-weight: 700;
     letter-spacing: 0.05em;
     text-decoration: none;
-    text-transform: uppercase;   
+    text-transform: uppercase; 
+    font-family: Georgia, serif;
 }
 .nav > * {
     font-size: 0.9rem;
     font-weight: 600;
     text-decoration: none;
     margin-top: 4px;
-    margin-right: 3rem;
+    margin-right: 2rem;
     padding-bottom: 4px;
     border-bottom: 1px solid;
     border-color: transparent;
