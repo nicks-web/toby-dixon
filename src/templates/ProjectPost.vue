@@ -6,25 +6,6 @@
 
         <div class="project-header">
           <h1 class="project-title" v-html="$page.post.title" />
-          <div class="project-info">
-
-            <div class="categories-container">
-              <div class="categories">
-                <span class="label">Categories</span>
-                <span 
-                  class="category"
-                  v-for="(category, index) in $page.post.categories" 
-                  :key="index"
-                  v-text="category"
-                />
-              </div>
-            </div>
-
-            <div class="year-container">
-              <span class="label">Year</span>
-              <div v-html="$page.post.date"/>
-            </div>
-          </div>
         </div>
 
         <div v-html="$page.post.content" class="content" />
@@ -63,11 +44,12 @@ export default {
 
 <style scoped>
 .project-header {
-  padding: 20vh 0 4rem 0;
+  padding: 20vh 0 1.5rem 0;
 }
 .project-title {
-  font-size: 4rem;
-  margin: 0 0 4rem 0;
+  font-size: 2.8rem;
+  font-family: Georgia, serif;
+  margin: 0 0 1.5rem 0;
   padding: 0;
 }
 .project-info {
