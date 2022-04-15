@@ -1,12 +1,10 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/76-supermarine-spitfire-t9-ml407-watermark.jpg"
+title: Spitfire
 date: 2019-01-03
-categories:
-- photography
-- yellow
+categories: []
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+![](/uploads/76-supermarine-spitfire-t9-ml407-watermark.jpg)
