@@ -32,7 +32,7 @@ body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
   padding: 0;
-  font-size: 16px;
+  font-size: 15px;
   background: var(--color-base);
   color: var(--color-contrast);
   transition: background 0.5s ease;
