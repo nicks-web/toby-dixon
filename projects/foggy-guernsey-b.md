@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/41-foggy-guernsey-watermark.jpg)
+
+REF: 0026
