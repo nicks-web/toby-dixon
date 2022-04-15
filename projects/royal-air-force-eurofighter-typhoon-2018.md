@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/24-eurofighter-typhoon-watermark.JPG)
+
+REF: 0007
