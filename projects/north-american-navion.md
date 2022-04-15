@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/79-north-american-navion-watermark.jpg)
+
+REF: 0011
