@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/65-piper-cub-watermark.JPG)
+
+REF: 0009
