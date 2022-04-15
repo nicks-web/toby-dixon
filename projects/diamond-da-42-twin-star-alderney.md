@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/70-diamond-twinstar-g-ctcc-watermark.jpg)
+
+REF: 0036
