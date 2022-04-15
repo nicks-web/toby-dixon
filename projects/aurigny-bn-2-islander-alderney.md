@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/01-aurigny-islander-watermark.JPG)
+
+REF: 0063
