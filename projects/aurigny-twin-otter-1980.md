@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/04-aurigny-twin-otter-watermark.JPG)
+
+REF: 0056
