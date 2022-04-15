@@ -4,7 +4,8 @@ year: 2019
 title: Islander 2
 category: Identity
 thumbnail: "/uploads/58-figas-islander-watermark.JPG"
-categories: []
+categories:
+- Aviation
 project_bg_color: ''
 project_fg_color: ''
 
