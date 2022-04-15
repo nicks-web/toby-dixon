@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/43-cessna-152-watermark.JPG)
+
+REF: 0043
