@@ -1,12 +1,10 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Ice Cream
+thumbnail: "/uploads/72-air-alderney-islander-g-blni-watermark.jpg"
+title: Islander
 date: 2019-01-04
-categories:
-- photography
-- yellow
+categories: []
 project_bg_color: ''
-project_fg_color: "#FDC70D"
+project_fg_color: "#000000"
 
 ---
-![](/uploads/ian-dooley-281897-unsplash.jpg)
+![](/uploads/72-air-alderney-islander-g-blni-watermark.jpg)
