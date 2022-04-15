@@ -49,7 +49,7 @@ export default {
   padding: 2rem 0 1.5rem 0;
 }
 .journal-title {
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin: 0 0 1.5rem 0;
   font-family: Times New Roman, Georgia, serif;
   padding: 0;
