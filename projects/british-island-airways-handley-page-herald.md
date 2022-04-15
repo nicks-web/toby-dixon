@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/54-bia-herald-watermark.JPG)
+
+REF: 0047
