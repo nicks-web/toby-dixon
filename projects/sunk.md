@@ -1,12 +1,10 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+thumbnail: "/uploads/77-de-havilland-dh-89-dragon-rapide-lands-end-watermark.jpg"
+title: Rapide
 date: 2019-02-06
-categories:
-- photography
-- blue
-project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+categories: []
+project_bg_color: "#FFFFFF"
+project_fg_color: "#000000"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
+![](/uploads/77-de-havilland-dh-89-dragon-rapide-lands-end-watermark.jpg)
