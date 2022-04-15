@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/32-avro-york-watermark.JPG)
+
+REF: 0055
