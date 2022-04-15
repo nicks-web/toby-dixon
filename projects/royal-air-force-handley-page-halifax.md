@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/69-hp-halifax-watermark.JPG)
+
+REF: 0006
