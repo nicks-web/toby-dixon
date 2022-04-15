@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/75-citabria-super-decathlon-g-eeez-watermark.jpg)
+
+REF: 0041
