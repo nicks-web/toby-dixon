@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/07-g-joey2-watermark.JPG)
+
+REF: 0058
