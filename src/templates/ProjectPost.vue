@@ -47,7 +47,7 @@ export default {
   padding: 20vh 0 1.5rem 0;
 }
 .project-title {
-  font-size: 2.8rem;
+  font-size: 2.2rem;
   font-family: Times New Roman, Georgia, serif;
   margin: 0 0 1.5rem 0;
   padding: 0;
