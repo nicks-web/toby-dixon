@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/27-guernsey-airlines-watermark.JPG)
+
+REF: 0024
