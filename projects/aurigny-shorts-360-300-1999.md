@@ -7,3 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/08-aurigny-shorts-360-300-watermark.JPG)
+
+REF: 0060
